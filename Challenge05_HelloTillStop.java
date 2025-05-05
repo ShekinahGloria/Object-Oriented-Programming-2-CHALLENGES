@@ -1,6 +1,6 @@
 import java.util.*;
 
-public class HelloTillStop {
+public class Challenge05_HelloTillStop {
     Scanner sc = new Scanner(System.in);
 
     // Outputs Hello while user wants to
@@ -18,6 +18,6 @@ public class HelloTillStop {
     }
 
     public static void main(String[] args) {
-        new HelloTillStop().showHello();
+        new Challenge05_HelloTillStop().showHello();
     }
 }

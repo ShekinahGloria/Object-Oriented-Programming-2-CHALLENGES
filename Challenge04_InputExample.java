@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class InputExample {
+public class Challenge04_InputExample {
     Scanner scanner = new Scanner(System.in);
 
     public void readNameAndAge() {
@@ -19,6 +19,6 @@ public class InputExample {
     }
 
     public static void main(String[] args) {
-        new InputExample().readNameAndAge();
+        new Challenge04_InputExample().readNameAndAge();
     }
 }

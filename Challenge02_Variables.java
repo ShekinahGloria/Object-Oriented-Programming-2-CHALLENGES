@@ -1,4 +1,4 @@
-public class Variables {
+public class Challenge02_Variables {
     void showInterest() {
         double amount;
         double interest; // percentage
@@ -16,6 +16,6 @@ public class Variables {
     }
 
     public static void main(String[] args) {
-        (new Variables()).showInterest();
+        (new Challenge02_Variables()).showInterest();
     }
 }
